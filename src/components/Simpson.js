@@ -11,4 +11,5 @@ function Simpson(props){
         </div>
     )
 }
+
 export default Simpson;

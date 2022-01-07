@@ -2,6 +2,7 @@
 import './App.css';
 import Simpson from "./components/Simpson";
 
+
     let simpsons = [
 	{
         id:1,
