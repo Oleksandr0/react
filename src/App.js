@@ -13,7 +13,6 @@ const App = () => {
                 <Users/>
                 <Posts/>
             </div>
-
             <hr/>
             <Comments/>
         </div>
@@ -21,3 +20,4 @@ const App = () => {
 };
 
 export default App;
+
