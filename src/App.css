@@ -1,0 +1,15 @@
+img{
+    width: 130px;
+}
+
+.flightList {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    border: 1px solid silver;
+    margin-bottom: 10px;
+}
+
+.mission {
+    text-align: center;
+}
