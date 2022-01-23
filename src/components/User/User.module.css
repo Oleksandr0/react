@@ -1,0 +1,7 @@
+.wrap {
+    display: flex;
+    column-gap: 20px;
+    padding: 5px 30px 0 30px;
+    justify-content: space-between;
+
+}
